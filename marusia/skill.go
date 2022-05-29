@@ -281,7 +281,7 @@ type ClientPlayerStatus struct {
 	TrackNumber int     `json:"track_number"`
 	Elapsed     float64 `json:"elapsed"`
 	Duration    float64 `json:"duration"`
-	TrackID     int     `json:"track_id"`
+	TrackID     string     `json:"track_id"`
 }
 
 // Session данные о сессии.
