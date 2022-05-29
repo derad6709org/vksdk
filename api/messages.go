@@ -1,9 +1,9 @@
-package api // import "github.com/SevereCloud/vksdk/v2/api"
+package api // import "github.com/derad6709org/vksdk/v2/api"
 
 import (
 	"strconv"
 
-	"github.com/SevereCloud/vksdk/v2/object"
+	"github.com/derad6709org/vksdk/v2/object"
 	"github.com/vmihailenco/msgpack/v5"
 )
 

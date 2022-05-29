@@ -87,7 +87,7 @@ git commit
 git push origin <name_of_your_new_branch>
 ```
 
-Затем откройте [pull request](https://github.com/SevereCloud/vksdk/pulls)
+Затем откройте [pull request](https://github.com/derad6709org/vksdk/pulls)
 с веткой:
 
 - `master` если это багфикс

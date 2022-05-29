@@ -1,4 +1,4 @@
-package object // import "github.com/SevereCloud/vksdk/v2/object"
+package object // import "github.com/derad6709org/vksdk/v2/object"
 
 // NewsfeedEventActivity struct.
 type NewsfeedEventActivity struct {

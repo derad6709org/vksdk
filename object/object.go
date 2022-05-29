@@ -3,7 +3,7 @@ Package object contains objects for VK.
 
 See more https://vk.com/dev/objects
 */
-package object // import "github.com/SevereCloud/vksdk/v2/object"
+package object // import "github.com/derad6709org/vksdk/v2/object"
 
 import (
 	"bytes"

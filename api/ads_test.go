@@ -3,7 +3,7 @@ package api_test
 import (
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/api"
+	"github.com/derad6709org/vksdk/v2/api"
 	"github.com/stretchr/testify/assert"
 	"github.com/vmihailenco/msgpack/v5"
 	"github.com/vmihailenco/msgpack/v5/msgpcode"

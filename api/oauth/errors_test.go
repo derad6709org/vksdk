@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/api/oauth"
+	"github.com/derad6709org/vksdk/v2/api/oauth"
 	"github.com/stretchr/testify/assert"
 )
 

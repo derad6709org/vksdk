@@ -1,10 +1,10 @@
 // Package oauth ...
-package oauth // import "github.com/SevereCloud/vksdk/v2/api/oauth"
+package oauth // import "github.com/derad6709org/vksdk/v2/api/oauth"
 
 import (
 	"net/url"
 
-	"github.com/SevereCloud/vksdk/v2/api"
+	"github.com/derad6709org/vksdk/v2/api"
 )
 
 // nolint:gochecknoglobals

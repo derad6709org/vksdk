@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/callback"
+	"github.com/derad6709org/vksdk/v2/callback"
 	"github.com/stretchr/testify/assert"
 )
 

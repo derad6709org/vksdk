@@ -1,4 +1,4 @@
-package streaming // import "github.com/SevereCloud/vksdk/v2/streaming"
+package streaming // import "github.com/derad6709org/vksdk/v2/streaming"
 
 import (
 	"errors"

@@ -1,10 +1,10 @@
-package callback // import "github.com/SevereCloud/vksdk/v2/callback"
+package callback // import "github.com/derad6709org/vksdk/v2/callback"
 
 import (
 	"context"
 	"time"
 
-	"github.com/SevereCloud/vksdk/v2/internal"
+	"github.com/derad6709org/vksdk/v2/internal"
 )
 
 // RetryCounterFromContext returns the X-Retry-Counter from context.

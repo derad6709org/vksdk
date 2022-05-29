@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/events"
-	"github.com/SevereCloud/vksdk/v2/internal"
+	"github.com/derad6709org/vksdk/v2/events"
+	"github.com/derad6709org/vksdk/v2/internal"
 	"github.com/stretchr/testify/assert"
 )
 

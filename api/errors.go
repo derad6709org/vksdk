@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SevereCloud/vksdk/v2/object"
+	"github.com/derad6709org/vksdk/v2/object"
 )
 
 // ErrorType is the type of an error.

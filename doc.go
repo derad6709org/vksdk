@@ -1,7 +1,7 @@
 /*
 Package vksdk implements the basic VK API functions.
 
-Source https://github.com/SevereCloud/vksdk
+Source https://github.com/derad6709org/vksdk
 */
 package vksdk
 

@@ -1,5 +1,5 @@
 // Package oauth ...
-package oauth // import "github.com/SevereCloud/vksdk/v2/api/oauth"
+package oauth // import "github.com/derad6709org/vksdk/v2/api/oauth"
 
 import (
 	"encoding/json"
@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/SevereCloud/vksdk/v2/internal"
+	"github.com/derad6709org/vksdk/v2/internal"
 )
 
 // GroupToken struct with access token.

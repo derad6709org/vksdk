@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/api"
+	"github.com/derad6709org/vksdk/v2/api"
 )
 
 func TestVK_AuthCheckPhone(t *testing.T) {

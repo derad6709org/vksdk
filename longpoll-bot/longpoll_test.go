@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SevereCloud/vksdk/v2/api"
-	"github.com/SevereCloud/vksdk/v2/events"
+	"github.com/derad6709org/vksdk/v2/api"
+	"github.com/derad6709org/vksdk/v2/events"
 	"github.com/stretchr/testify/assert"
 )
 

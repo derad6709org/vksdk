@@ -3,7 +3,7 @@ package params_test
 import (
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/api/params"
+	"github.com/derad6709org/vksdk/v2/api/params"
 	"github.com/stretchr/testify/assert"
 )
 

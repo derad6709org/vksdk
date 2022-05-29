@@ -1,4 +1,4 @@
-package wrapper // import "github.com/SevereCloud/vksdk/v2/longpoll-user/v3"
+package wrapper // import "github.com/derad6709org/vksdk/v2/longpoll-user/v3"
 
 // MessageFlag type.
 type MessageFlag int

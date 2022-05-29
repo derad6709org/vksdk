@@ -3,7 +3,7 @@ package marusia_test
 import (
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/marusia"
+	"github.com/derad6709org/vksdk/v2/marusia"
 	"github.com/stretchr/testify/assert"
 )
 

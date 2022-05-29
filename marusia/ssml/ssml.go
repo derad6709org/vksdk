@@ -1,5 +1,5 @@
 // Package ssml implements Speech Synthesis Markup Language.
-package ssml // import "github.com/SevereCloud/vksdk/v2/marusia/ssml"
+package ssml // import "github.com/derad6709org/vksdk/v2/marusia/ssml"
 
 import (
 	"bytes"

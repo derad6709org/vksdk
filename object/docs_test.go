@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/SevereCloud/vksdk/v2/object"
+	"github.com/derad6709org/vksdk/v2/object"
 )
 
 func TestDocsDoc_ToAttachment(t *testing.T) {

@@ -173,7 +173,7 @@ https://skill-debugger.marusia.mail.ru/
 
 	http.ListenAndServe(":8080", nil)
 */
-package marusia // import "github.com/SevereCloud/vksdk/v2/marusia"
+package marusia // import "github.com/derad6709org/vksdk/v2/marusia"
 
 import (
 	"encoding/json"

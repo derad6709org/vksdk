@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/SevereCloud/vksdk/v2/foaf"
+	"github.com/derad6709org/vksdk/v2/foaf"
 )
 
 func ExampleGetGroup() {
